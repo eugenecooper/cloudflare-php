@@ -1,4 +1,5 @@
-# Cloudflare SDK (v4 API Binding for PHP 7)
+# Cloudflare SDK (v4 API Binding for PHP 8.1+)
+# (this fork works with Laravel 10/11)
 
 [![Build Status](https://travis-ci.org/cloudflare/cloudflare-php.svg?branch=master)](https://travis-ci.org/cloudflare/cloudflare-php)
 
